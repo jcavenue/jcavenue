@@ -1,4 +1,4 @@
-I am a **Web Application Developer** focusing on **Front-end Technologies**. Knowledgeable in software development methodologies and software engineering skills. I read technical books each month for a deep understanding of some interesting topics and also to keep my knowledge portfolio up to date. I am also a Microsoft Learn Student Ambassador a global group of campus leaders who are eager to help fellow students, create robust tech communities, and develop technical and career skills for the future. In my alone time, I like to watch anime and spend some time with myself.
+I am a **Web Application Developer** focusing on **Front-end Technologies**. Knowledgeable in software development methodologies and software engineering skills. I like to join in anyworkshop related to Front-end and UX development. I am also a Microsoft Learn Student Ambassador a global group of campus leaders who are eager to help fellow students, create robust tech communities, and develop technical and career skills for the future. In my alone time, I like to watch anime and spend some time with myself.
 
 Reach me at jcfababeir09@gmail.com or follow me on my social media below.
 
