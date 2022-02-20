@@ -1,4 +1,4 @@
-I am currently a **Software Quality Assurance Intern** focusing on **Cypress automation testing**. Knowledgeable in software development methodologies and software engineering skills. I like to join in anyworkshop related to software development. I am also a Microsoft Learn Student Ambassador a global group of campus leaders who are eager to help fellow students, create robust tech communities, and develop technical and career skills for the future. In my alone time, I like to watch anime and spend some time with myself.
+I am currently a **Software Quality Assurance Intern** focusing on **Cypress automation testing** and CI/CD. Knowledgeable in software development methodologies and software engineering skills. I like to join in anyworkshop related to software development. I am also a Microsoft Learn Student Ambassador a global group of campus leaders who are eager to help fellow students, create robust tech communities, and develop technical and career skills for the future. In my alone time, I like to watch anime and spend some time with myself.
 
 Follow me on my social media below.
 
