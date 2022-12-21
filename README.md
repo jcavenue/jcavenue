@@ -1,5 +1,4 @@
-Hello Kamusta ka? ( *How are you* ?) I am **JC** from the Philippines. Coding is my Passion. I started my journey in Web Development in March 2020. I consider coding as a passion wherein I spent 14 hours a day to enhance my skills and It feels so good that keeps me to learn and grow. Right now, Im **Specializing in Frontend Development using ReactJS**. I can do also **Manual Testing** and **Test Automation using Cypress JS**.  Currently I'm a **Former Freelance Software Quality Engineer** at *Achieve Without Borders*. Please feel free to contact me if you need any further information or any work related offer. 
-
+Hi! **I'm JC**, I have a demonstrated experience working on scrum/agile environment, software testing and test automation tool using cypress as a Software Quality Engineer. Currently I am looking to switch to a new role as a Software Engineer or Frontend Developer. Feel free to message me if you have any work-related offer.
 Follow me on my social media below. ✨
 
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/jcavenue30)
